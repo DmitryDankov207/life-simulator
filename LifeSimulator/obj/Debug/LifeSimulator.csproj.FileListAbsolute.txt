@@ -1,0 +1,12 @@
+E:\Development\ISP\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csprojAssemblyReference.cache
+E:\Development\ISP\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.CoreCompileInputs.cache
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.exe.config
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.exe
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.pdb
+E:\Development\ISP\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.exe
+E:\Development\ISP\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.pdb
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\EntityFramework.dll
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\EntityFramework.SqlServer.dll
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\EntityFramework.xml
+E:\Development\ISP\LifeSimulator\LifeSimulator\bin\Debug\EntityFramework.SqlServer.xml
+E:\Development\ISP\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.CopyComplete
